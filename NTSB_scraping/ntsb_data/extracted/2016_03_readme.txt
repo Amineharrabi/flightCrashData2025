@@ -1,0 +1,12 @@
+Run time: 23/11/2025 19:49:36
+
+Json query: {"ExportFormat":"data","ResultSetSize":500,"ResultSetOffset":0,"TargetCollection":"cases","AndOr":"And","QueryGroups":[{"AndOr":"And","QueryRules":[{"RuleType":0,"Values":["2016-03-01"],"Columns":["Event.EventDate"],"Operator":"is on or after"},{"RuleType":0,"Values":["2016-03-31"],"Columns":["Event.EventDate"],"Operator":"is on or before"},{"RuleType":0,"Values":["Aviation"],"Columns":["Event.Mode"],"Operator":"is"}]}],"SortColumn":null,"SortDescending":true,"SessionId":227230}
+
+Query text: [
+	(EventDate) is on or after (2016-03-01)
+	And
+	(EventDate) is on or before (2016-03-31)
+	And
+	(Mode) is (Aviation)
+]
+

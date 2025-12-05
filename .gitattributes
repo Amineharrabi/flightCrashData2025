@@ -1,0 +1,10 @@
+# Track all JSON files in ASN_scraping with Git LFS
+/ASN_scraping/*.json filter=lfs diff=lfs merge=lfs -text
+# Track other binary files
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+ASN_scraping/*.json filter=lfs diff=lfs merge=lfs -text
+NTSB_scraping/ntsb_data/extracted/*.json filter=lfs diff=lfs merge=lfs -text
