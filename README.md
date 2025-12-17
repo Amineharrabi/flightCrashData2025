@@ -5,8 +5,7 @@ Watch the youtube video :
 
 https://www.youtube.com/watch?v=T0hBFzDCDDM
 
-![thumbnail(1)](https://github.com/user-attachments/assets/696a0373-d78c-4766-bea8-57339b1653d0)
-
+<img width="640" height="420" alt="Brillo(4)" src="https://github.com/user-attachments/assets/696a0373-d78c-4766-bea8-57339b1653d0" />
 
 ## Table of Contents
 
