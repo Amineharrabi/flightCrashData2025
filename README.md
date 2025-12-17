@@ -1,6 +1,12 @@
 # Flight Crash Data Repository
 
 A comprehensive multi-source aviation accident data pipeline that aggregates flight crash information from multiple authoritative sources (Aviation Safety Network and NTSB) into a unified data warehouse. This repository provides tools to scrape, process, and analyze aviation accident data for research, analysis, and reporting purposes.
+Watch the youtube video :
+
+https://www.youtube.com/watch?v=T0hBFzDCDDM
+
+![thumbnail(1)](https://github.com/user-attachments/assets/696a0373-d78c-4766-bea8-57339b1653d0)
+
 
 ## Table of Contents
 
